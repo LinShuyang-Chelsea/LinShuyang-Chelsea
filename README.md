@@ -1,8 +1,8 @@
 ## Hi there 👋       
--I'm new here, trying to figure out how Github works.<br>
--I'm an artist student who is terribly bad at coding and maths.<br>
--But learning new things is always exciting!  <br>
--<b>MAKE LINS GREAT AGAGIN!</b>    
+-💻I'm new here, trying to figure out how Github works.<br>
+-✍I'm an artist student who is terribly bad at coding and maths.<br>
+-🥳But learning new things is always exciting!  <br>
+-<b>💪MAKE LINS GREAT AGAGIN!</b>    
 <!--                             
 **LinShuyang-Chelsea/LinShuyang-Chelsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
